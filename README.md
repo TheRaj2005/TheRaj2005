@@ -72,6 +72,7 @@ graph TD
 - CSV & JSON Handling
 - APIs
 - Excel Integration
+- Unit Testing
 
 ## 🏆 Featured Projects
 
