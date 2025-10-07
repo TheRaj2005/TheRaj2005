@@ -30,6 +30,7 @@ me.say_hi()
 <div align="center">
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 </div>
@@ -94,18 +95,7 @@ current_goals = {
     "next_up": "Statistics and data analysis",
     "end_goal": "Full-stack data analytics toolkit"
 }
-
-for goal, description in current_goals.items():
-    print(f"🎯 {goal}: {description}")
 ```
-
-## 💭 Dev Quote of the Day
-
-<div align="center">
-
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
-</div>
 
 ## 🤝 Let's Connect!
 
@@ -120,7 +110,7 @@ for goal, description in current_goals.items():
 
 <div align="center">
   
-### 💡 *"Every expert was once a beginner. Keep coding! 💻"*
+## 💡 *"Every expert was once a beginner. Keep coding! 💻"*
 
 ![Visitor Count](https://profile-counter.glitch.me/TheRaj2005/count.svg)
 
