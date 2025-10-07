@@ -49,10 +49,11 @@ graph TD
     F --> G[📄 CSV & JSON Handling]
     G --> H[🌐 APIs]
     H --> I[📗 Excel Integration]
-    I --> J[🎓 Data Analytics Master!]
+    I --> J[🧪 Unit Testing]
+    J --> K[🎓 Data Analytics Master!]
     
     style D fill:#FFD700,stroke:#FFD700,color:#000,stroke-width:4px
-    style J fill:#00D9FF,stroke:#00D9FF,color:#000
+    style K fill:#00D9FF,stroke:#00D9FF,color:#000
 ```
 
 </div>
